@@ -11,5 +11,9 @@
 
 3. webroot 网站根目录，前台页面和静态济源文件
 
-![image](E:\图片\E[JN1NT6P827_OMX`WCC096.png)
+目录结构：
+
+![image](src目录结构说明.png)
+
+![image](WebRoot目录结构说明.png)
 
